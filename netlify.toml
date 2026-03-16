@@ -1,1 +1,5 @@
-
+[[redirects]]
+  from = "/api/*"
+  to = "https://api.milkbot.cn/server/api/:splat"
+  status = 200
+  force = true
